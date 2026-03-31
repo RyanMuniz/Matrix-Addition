@@ -2,7 +2,9 @@
 // Email: rmuniz15@student.cnm.edu
 // Class: CSCI 2260: Section R01
 // Assignment: Week 10: Matrix Addition
-// Purpose: 
+// Purpose: Handles the addition of one assigned matrix quadrant
+// in a seperate thread, and stores that partial result in the
+// shared result matrix.
 // FileName: "ThreadOperation.java"
 // Date: March 29, 2026
 

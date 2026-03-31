@@ -2,7 +2,9 @@
 // Email: rmuniz15@student.cnm.edu
 // Class: CSCI 2260: Section R01
 // Assignment: Week 10: Matrix Addition
-// Purpose: 
+// Purpose: Reads to matrices from an input file, creates and
+// coordinates four threads to add matrices by quadrant, and
+// prints the final summed matrix.
 // FileName: "Main.java"
 // Date: March 29, 2026
 
